@@ -1,8 +1,16 @@
 {
   "id": "__BASE__",
   "name": "redMineTest",
-  "screens": [],
+  "screens": [
+    {
+      "id": "logindarkblue",
+      "name": "Login-DarkBlue",
+      "sourceScreenId": "Login_LoginDarkBlue",
+      "sourceAppId": "StrawberryTemplates"
+    }
+  ],
   "statusbarContent": "dark",
   "statusbarHidden": false,
-  "statusbarBackground": null
+  "statusbarBackground": null,
+  "startScreen": "logindarkblue"
 }
