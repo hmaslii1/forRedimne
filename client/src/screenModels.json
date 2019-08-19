@@ -35,5 +35,11 @@
       }
     },
     "id": "logindarkblue"
+  },
+  "home": {
+    "type": "object",
+    "comment": "Blank",
+    "properties": {},
+    "id": "home"
   }
 }

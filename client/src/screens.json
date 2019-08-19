@@ -7,6 +7,12 @@
       "name": "Login-DarkBlue",
       "sourceScreenId": "Login_LoginDarkBlue",
       "sourceAppId": "StrawberryTemplates"
+    },
+    {
+      "id": "home",
+      "name": "Home",
+      "sourceScreenId": "blank",
+      "sourceAppId": "default"
     }
   ],
   "statusbarContent": "dark",
