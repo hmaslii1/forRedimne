@@ -1,0 +1,13 @@
+{
+  "name": "redMineTest",
+  "defaultLayout": "PhonePortrait",
+  "previewToken": "cd5e3d27",
+  "theme": "Anchor",
+  "clientVersion": "6.1.0-dev",
+  "hidden": false,
+  "isBuiltInTemplate": false,
+  "disableSideMenu": false,
+  "offlineSupport": false,
+  "description": "",
+  "creatorId": "admin"
+}
